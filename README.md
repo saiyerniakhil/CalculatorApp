@@ -15,4 +15,4 @@ Windows 10 10.0
 
 **Tested On**
 
-*Virtually Emulated* ** Google Pixel** Running Android Oreo (API 26)
+*Virtually Emulated* **Google Pixel** Running Android Oreo (API 26)
