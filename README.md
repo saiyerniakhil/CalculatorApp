@@ -1,4 +1,8 @@
 # Calculator Application #
+**How to Contribute?**
+
+Just Clone or download it and import the repo in Android Studio 
+
 **Android Studio Version Details**
 
 Android Studio 3.0
